@@ -14,4 +14,11 @@
     <files>
         <folder>tcpdf</folder>
     </files>
+    
+    <updateservers>
+        <server type="extension" priority="2"
+            name="TCPDF-Joomla-Library Update Server">http://raw.githubusercontent.com/vdm-io/tcpdf/master/updates/extension.xml</server>
+        <server type="extension" priority="1"
+             name="TCPDF-Joomla-Library Update Server (HTTPS)">https://raw.githubusercontent.com/vdm-io/tcpdf/master/updates/extension.xml</server>
+    </updateservers>
 </extension>

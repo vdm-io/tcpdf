@@ -46,19 +46,19 @@ Copyright (c) 2002-2015:
 > Compiled into an installer for Joomla 3 by [Llewellyn van der Merwe] (mailto:joomla@vdm.io) at [Vast Development Method] (https://www.vdm.io/)
 
 # Usage in Joomla (PHP)
-`
+```php
 // Import TCPDF library
 jimport('tcpdf.tcpdf');
-`
+```
 or
-`
+```php
 // Import TCPDF library
 require_once JPATH_LIBRARIES . '/tcpdf/tcpdf.php';
-`
+```
 Now you can create a new PDF document:
-'
+```php
 $pdf = new TCPDF();
-'
+```
 
 # Documentation
 + [Source Code Documentation] (http://www.tcpdf.org)
@@ -68,4 +68,4 @@ $pdf = new TCPDF();
 This library is integrated with Joomla's automatic updates. Before updating it's mandatory that you check that your documents still work as expected.
 
 # License
-TCPDF is licensed under LGPL ([GNU LESSER GENERAL PUBLIC LICENSE] (https://github.com/tecnickcom/TCPDF/blob/develop/LICENSE.TXT))
+TCPDF is licensed under LGPL ([GNU LESSER GENERAL PUBLIC LICENSE] (https://github.com/vdm-io/tcpdf/blob/master/tcpdf/LICENSE.TXT))
