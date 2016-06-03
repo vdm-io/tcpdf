@@ -16,12 +16,12 @@
         <folder>fonts</folder>
         <folder>include</folder>
         <folder>tools</folder>
-        <file>tcpdf.pdf</file>
-        <file>tcpdf_autoconfig.pdf</file>
-        <file>tcpdf_barcodes_1d.pdf</file>
-        <file>tcpdf_barcodes_2d.pdf</file>
-        <file>tcpdf_import.pdf</file>
-        <file>tcpdf_parser.pdf</file>
+        <file>tcpdf.php</file>
+        <file>tcpdf_autoconfig.php</file>
+        <file>tcpdf_barcodes_1d.php</file>
+        <file>tcpdf_barcodes_2d.php</file>
+        <file>tcpdf_import.php</file>
+        <file>tcpdf_parser.php</file>
     </files>
     
     <updateservers>
