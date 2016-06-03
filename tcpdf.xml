@@ -12,7 +12,16 @@
     <description>This is a PHP class for generating PDF documents without requiring external extensions.</description>
 
     <files>
-        <folder>tcpdf</folder>
+        <folder>config</folder>
+        <folder>fonts</folder>
+        <folder>include</folder>
+        <folder>tools</folder>
+        <file>tcpdf.pdf</file>
+        <file>tcpdf_autoconfig.pdf</file>
+        <file>tcpdf_barcodes_1d.pdf</file>
+        <file>tcpdf_barcodes_2d.pdf</file>
+        <file>tcpdf_import.pdf</file>
+        <file>tcpdf_parser.pdf</file>
     </files>
     
     <updateservers>
