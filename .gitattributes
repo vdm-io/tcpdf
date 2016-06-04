@@ -2,6 +2,7 @@
 # git files
 .gitattributes export-ignore
 # Examples folder and files
+examples  export-ignore
 examples/*  export-ignore
 # Other system files
 composer.json  export-ignore
