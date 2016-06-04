@@ -1,0 +1,8 @@
+# used to remove files from deployment using `git archive`
+# git files
+.gitattributes export-ignore
+# Examples folder and files
+examples/*  export-ignore
+# Other system files
+composer.json  export-ignore
+README.TXT  export-ignore
