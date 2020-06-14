@@ -8,7 +8,7 @@
     <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
     <authorEmail>info@tecnick.com</authorEmail>
     <authorUrl>www.tecnick.com</authorUrl>
-    <version>6.2.26</version>
+    <version>6.3.5</version>
     <description>This is a PHP class for generating PDF documents without requiring external extensions.</description>
 
     <files>
