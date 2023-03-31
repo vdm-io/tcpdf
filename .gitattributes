@@ -1,9 +1,6 @@
-# used to remove files from deployment using `git archive`
-# git files
-.gitattributes export-ignore
-# Examples folder and files
-examples  export-ignore
-examples/*  export-ignore
-# Other system files
-composer.json  export-ignore
-README.TXT  export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/tests export-ignore
+/scripts export-ignore
+/phpstan.neon.dist export-ignore
