@@ -5,6 +5,9 @@ __If you already know how to use TCPDF and you need it for a Joomla! project, th
 TCPDF is a PHP class for generating PDF files on-the-fly without requiring external extensions.
 This library includes also a class to extract data from existing PDF documents and classes to generate 1D and 2D barcodes in various formats.
 
+## NOTE
+A new version of this library is under development at https://github.com/tecnickcom/tc-lib-pdf and as a consequence this library is in support only mode.
+
 ## Main Features:
 * no external libraries are required for the basic functions;
 * all standard page formats, custom page formats, custom margins and units of measure;
@@ -63,7 +66,7 @@ https://packages.debian.org/source/stable/icc-profiles-free
 
 * **category**    Library
 * **author**      Nicola Asuni <info@tecnick.com>
-* **copyright**   2002-2022 Nicola Asuni - Tecnick.com LTD
+* **copyright**   2002-2023 Nicola Asuni - Tecnick.com LTD
 * **license**     http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE.TXT)
 * **link**        http://www.tcpdf.org
 * **source**      https://github.com/tecnickcom/TCPDF
@@ -72,7 +75,7 @@ https://packages.debian.org/source/stable/icc-profiles-free
 
 * Nicola Asuni <info@tecnick.com>
 
-> Compiled into an installer for Joomla 3 by [Llewellyn van der Merwe](mailto:joomla@vdm.io) at [Vast Development Method](https://www.vdm.io/)
+> Compiled into an installer for Joomla 3|4|5 by [Llewellyn van der Merwe](mailto:joomla@vdm.io) at [Vast Development Method](https://www.vdm.io/)
 
 # Usage in Joomla (PHP)
 ```php
